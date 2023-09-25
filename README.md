@@ -1,16 +1,7 @@
 # flagquizapp
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/AbdurazzoqAbdugafforov/flags_quiz/assets/134942447/6c8a72a7-2e63-489f-8e55-fe16cf414cb8" height = "600" width = "300">
+<img src = "https://github.com/AbdurazzoqAbdugafforov/flags_quiz/assets/134942447/2d79b725-abc9-4fd6-acf9-b5d2278c0975" height = "600" width = "300">
+<img src = "https://github.com/AbdurazzoqAbdugafforov/flags_quiz/assets/134942447/86cb871f-6147-499c-bc71-909d3646ce74" height = "600" width = "300">
+<img src = "https://github.com/AbdurazzoqAbdugafforov/flags_quiz/assets/134942447/fcb35a15-634f-44e0-be71-c68654c16031" height = "600" width = "300">
